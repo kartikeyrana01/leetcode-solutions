@@ -1,8 +1,8 @@
 // Problem  : valid-anagram
 // Difficulty: Easy
 // Language : cpp
-// Runtime  : 4 ms
-// Memory   : 9.9 MB
+// Runtime  : 0 ms
+// Memory   : 10 MB
 // Date     : 2026-07-29
 // LeetCode : https://leetcode.com/problems/valid-anagram/
 class Solution {
